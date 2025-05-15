@@ -15,8 +15,7 @@
 ├── models/
 │   └── phishing_clf.pkl          # trained model
 ├── notebooks/
-│   ├── EDA_preprocessing_And_Training # exploration and feature engineering + Model Training
-│   
+│   └── EDA_preprocessing_And_Training # exploration and feature engineering + Model Training 
 ├── predict.py                    # CLI script for single‑URL prediction
 ├── requirements.txt              # python packages
 ├── Dockerfile                    # containerization recipe
